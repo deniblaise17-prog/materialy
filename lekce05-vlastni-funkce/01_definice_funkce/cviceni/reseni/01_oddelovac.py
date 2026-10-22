@@ -11,3 +11,6 @@ def oddelovac():
 oddelovac()
 oddelovac()
 oddelovac()
+
+#ZMENA
+
